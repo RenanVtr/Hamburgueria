@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Hamburgueria Virtual</string>
+    <string name="text_welcome">Bem vindo! Monte seu pedido:</string>
+
+    <string name="item_bread">Tipo de Pão</string>
+    <string name="item_meat">Tipo de Carne</string>
+    <string name="item_extra">Extras</string>
+    <string name="item_sauce">Escolha seus molhos</string>
+
+    <string name="bread_1">Três Queijos</string>
+    <string name="bread_2">Australiano</string>
+    <string name="bread_3">Integral</string>
+    <string name="bread_4">Italiano</string>
+
+    <string name="meat_1">Bovina</string>
+    <string name="meat_2">Frango</string>
+    <string name="meat_3">Peru</string>
+    <string name="meat_4">Soja</string>
+
+    <string name="extra_1">Alface</string>
+    <string name="extra_2">Tomate</string>
+    <string name="extra_3">Cebola</string>
+    <string name="extra_4">Queijo</string>
+
+    <string name="sauce_1">Ketchup</string>
+    <string name="sauce_2">Mostarda</string>
+    <string name="sauce_3">Maionese</string>
+    <string name="sauce_4">BBQ</string>
+
+    <string name="button_end">Finalizar</string>
+</resources>
